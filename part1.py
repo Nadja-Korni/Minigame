@@ -12,7 +12,7 @@ from functionsPart1 import *
 
 # This is the intro for the adventure game
 print("\n"*200)
-print("<<Awesome Adventure for Andre>>")
+print("<<Awesome Adventure>>")
 print("\n"*3)
 time.sleep(3)
 print("A long time ago, a warrior strode forth from the frozen north.")
