@@ -66,7 +66,7 @@ input()
 health= strength + cr
 print(Fore.GREEN + name, "has a health value of", health, ".")
 
-print(Fore.WHITE + "Everyone needs a certain amount of luck to survive.")
+print(Fore.WHITE + "Everyone needs a certain amount of luck to survive. kxhjdkcykjc")
 print("Press enter to roll the dice and see how lucky", name, "is.")
 input()
 luck=random.randint(1, 15)
